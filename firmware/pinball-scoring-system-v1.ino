@@ -1,3 +1,6 @@
+// this is just a prototype and is not fully functional yet
+// it includes code for a reset button, 4 buttons representing point scoring components, and the lcd screen int
+
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
